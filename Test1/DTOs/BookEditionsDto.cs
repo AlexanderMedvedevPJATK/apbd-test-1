@@ -1,5 +1,3 @@
-using System.ComponentModel.DataAnnotations;
-
 namespace Test1.DTOs;
 
 public class BookEditionsDto
